@@ -1,9 +1,6 @@
 import static java.lang.Math.round;
 /**
  * Noah Gallagher
- * Jojo Paris
- * Tom Lee
- *
  * Due 9/23/20
  */
 
