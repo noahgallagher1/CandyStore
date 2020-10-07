@@ -1,8 +1,5 @@
 /**
  * Noah Gallagher
- * Jojo Paris
- * Tom Lee
- *
  * Due 9/23/20
  */
 import java.util.ArrayList;
